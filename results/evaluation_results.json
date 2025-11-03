@@ -1,0 +1,14 @@
+{
+  "ROUGE": {
+    "rouge1": 86.65,
+    "rouge2": 83.81,
+    "rougeL": 84.43,
+    "rougeLsum": 86.32
+  },
+  "BLEU": 81.06,
+  "BERTScore": {
+    "precision": 91.78,
+    "recall": 88.26,
+    "f1": 86.47
+  }
+}
