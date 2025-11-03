@@ -1,0 +1,21 @@
+streamlit
+transformers>=4.30.0
+accelerate
+peft
+bitsandbytes
+sentence-transformers
+faiss-cpu
+chromadb
+pymupdf
+pdfplumber
+requests
+python-multipart
+grobid-client-python
+numpy
+pandas
+scikit-learn
+rouge-score
+bert-score
+wandb
+loguru
+ uvicorn
